@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">StoriesViewer</string>
+    <string name="credits">App creata da Paolo Campus... fanne buon uso</string>
+    <string name="hint_write">Scrivi qua il nickname IG</string>
+    <string name="show_stories">VISUALIZZA STORIE</string>
+    <string name="View_Story2">VISUALIZZA STORIE (riserva)</string>
+</resources>

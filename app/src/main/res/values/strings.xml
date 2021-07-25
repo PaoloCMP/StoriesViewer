@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">StoriesViewer</string>
+    <string name="credits">App created by Paolo Campus... use it well</string>
+    <string name="View_Story2">Show stories (backup)</string>
+    <string name="show_stories">SHOW STORIES</string>
+    <string name="hint_write">Type here the IG nickname</string>
+</resources>
